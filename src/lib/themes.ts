@@ -43,8 +43,8 @@ export interface ThemeMeta {
 export const THEMES: ReadonlyArray<ThemeMeta> = [
   {
     id: "violet",
-    name: "Violet",
-    tagline: "The default — confident, slightly playful.",
+    name: "Light Violet",
+    tagline: "The default light theme — clean and crisp.",
     swatch: "oklch(0.526 0.247 293)",
   },
   {
